@@ -19,6 +19,7 @@ This project provides an example of sorting an array from small to large using t
 -IntelliJ IDEA is a powerful IDE that makes Java development easier and helps developers be more productive. That's why I used IntelliJ IDEA in my application.
 
 <br>
+<br>
 
 ## Usage
 
