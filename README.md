@@ -20,6 +20,7 @@ This project provides an example of sorting an array from small to large using t
 Sorted array:
 11 12 22 25 34 64 90
 <br>
+
 ## Code Description
 ### Key Classes and Methods:
 SortAscending: Contains the sort method for sorting an array.
