@@ -6,6 +6,7 @@ This project provides an example of sorting an array from small to large using t
 ## Setup
 
 <img width="139" alt="Ekran Resmi 2024-02-27 01 26 54" src="https://github.com/gokcenuryilmaz/SortTheElementsOfAnArrayInAscendingOrder/assets/128600199/e6f90668-f18b-4923-9c25-eb5b0b3e592d">
+<br>
 - JDK 19 or later
 
 <br>
