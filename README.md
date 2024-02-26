@@ -7,9 +7,9 @@ This project provides an example of sorting an array from small to large using t
 
 <img width="139" alt="Ekran Resmi 2024-02-27 01 26 54" src="https://github.com/gokcenuryilmaz/SortTheElementsOfAnArrayInAscendingOrder/assets/128600199/e6f90668-f18b-4923-9c25-eb5b0b3e592d">
 <br>
-- JDK 19 or later
-- Java is a versatile and easy-to-use programming language, so I chose to use Java in my application.
-
+- JDK 19 or later <br>
+- Java is a versatile and easy-to-use programming language, so I chose to use Java in my application. <br>
+<img width="51" alt="Ekran Resmi 2024-02-27 01 35 08" src="https://github.com/gokcenuryilmaz/SortTheElementsOfAnArrayInAscendingOrder/assets/128600199/79875237-8e3c-4cc0-b685-1ff4ac8077db">
 <br>
 -IntelliJ IDEA is a powerful IDE that makes Java development easier and helps developers be more productive. That's why I used IntelliJ IDEA in my application.
 
