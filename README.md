@@ -6,23 +6,18 @@ This project provides an example of sorting an array from small to large using t
 ## Setup
 
 - JDK 19 or later
-
 <br>
-
 ## Usage
 
 1. Save the code as `SortAscending.java`.
 2. Compile the code using the following command in the command line: javac SortAscending.java
 3. Run the code using the following command: java SortAscending
-
 <br>
-
 ## Example Output
+
 Sorted array:
 11 12 22 25 34 64 90
-
 <br>
-
 ## Code Description
 ### Key Classes and Methods:
 SortAscending: Contains the sort method for sorting an array.
