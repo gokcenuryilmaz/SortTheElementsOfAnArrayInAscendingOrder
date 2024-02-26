@@ -13,7 +13,7 @@ Calls the sort method to sort the array.
 Prints the sorted array.
 <br>
 ## Algorithm
-The code implements the Bubble Sort algorithm, which works as follows:
+The code implements the Bubble Sort algorithm, which works as follows: <br>
 1)Iterates through the array multiple times. <br>
 2)In each iteration, compares adjacent elements. <br>
 3)Swaps elements if they are in the wrong order (descending). <br>
