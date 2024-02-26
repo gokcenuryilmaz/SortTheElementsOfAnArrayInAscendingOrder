@@ -1,4 +1,4 @@
-# Sort The Elements Of An Arry In Ascending Order
+# Sorting Elements of an Array in Ascending Order
 
 This project provides an example of sorting an array from small to large using the Bubble Sort algorithm.
 <br>
