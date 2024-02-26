@@ -1,5 +1,5 @@
 # Code Explanation
-<br>
+
 ## Key Classes and Methods:
 SortAscending: Contains the sort method for sorting an array.
 <br>
