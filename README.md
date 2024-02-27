@@ -29,6 +29,18 @@ This project provides an example of sorting an array from small to large using t
 
 <br>
 
+## How It Works
+
+The `SortAscending` class contains a `sort` method that implements the Bubble Sort algorithm. It repeatedly iterates through the array, comparing adjacent elements and swapping them if they are in the wrong order. This process continues until the array is sorted.
+
+<br>
+
+## Contributions
+
+Contributions are welcome! If you have any ideas for improvements or find any issues, feel free to open an issue or create a pull request.
+
+<br>
+
 ## Code Description
 ### Key Classes and Methods:
 SortAscending: Contains the sort method for sorting an array.
