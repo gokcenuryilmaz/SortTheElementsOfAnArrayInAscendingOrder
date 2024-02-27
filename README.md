@@ -37,8 +37,7 @@ The `SortAscending` class contains a `sort` method that implements the Bubble So
 <br>
 
 ## Contributions
-
-Contributions are welcome! If you have any ideas for improvements or find any issues, feel free to open an issue or create a pull request.
+I am waiting for your contributions! If you have any ideas for improvements or if you find any problems, do not hesitate to open this problem or create a pull request.
 
 <br>
 
