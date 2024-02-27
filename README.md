@@ -9,7 +9,7 @@ This project provides an example of sorting an array from small to large using t
 
 <br>
 
-- JDK 19 or later <br>
+- JDK 21.0.1 <br>
 - Java is a versatile and easy-to-use programming language, so I chose to use Java in my application.
   
 <br>
